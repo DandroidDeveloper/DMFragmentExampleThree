@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DMFragmentExampleThree</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="getfragmentstring">Get text in Fragment #1</string>
+    <string name="fragone">This is fragment #1</string>
+</resources>
